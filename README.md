@@ -26,7 +26,7 @@ De l'analyse des besoins à la mise en production : rédaction de spécification
 
 ## Contact
 
-📫 dev.vporel@gmail.com · 🌐 [vporel.com](https://vporel.com)
+📫 dev.vporel@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/vivian-nkouanang/) · 🌐 [vporel.com](https://vporel.com)
 
 ---
 <sub>🎹 Et quand je ne code pas, j'apprends le piano — le parcours est documenté sur [@vpkeys](https://tiktok.com/@vpkeys).</sub>
