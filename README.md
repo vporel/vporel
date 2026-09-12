@@ -8,15 +8,15 @@ From requirements analysis to production deployment: writing specifications, dev
 
 ## Projects
 
-**[Studomate](https://github.com/vporel/studomate)** — GRAFCET simulator for BTS/BUT GEII students. Static, open-source application. [View live →](https://studomate.com)
+My main public project is : 
 
-**[Cloverly](https://github.com/vporel/cloverly)** — Real-time multiplayer word game. Vue.js + Vite, Supabase (auth, database, Realtime), Pinia, Tailwind.
+**[Studomate](https://github.com/vporel/studomate)** — GRAFCET, Ladder & HMI simulator for learning automation. Free, open-source, runs in the browser — no install, optional cloud accounts. [View live →](https://studomate.com)
 
-*→ More projects on [vporel.com](https://vporel.com)*
+*→ More projects on [vporel.com](https://vporel.com/projets)*
 
 ## Tech stack
 
-`TypeScript` `Node.js` `NestJS` `React` `Next.js` `Java (Micronaut, Spring Boot)` `PHP (Symfony)` `Python` `PostgreSQL` `Docker` `Jest` `Git` `GitHub` `GitLab`
+`TypeScript` `Node.js` `NestJS` `React` `Next.js` `Java (Micronaut, Spring Boot)` `PHP (Symfony)` `Python` `PostgreSQL` `Supabase` `Docker` `Jest` `Git` `GitHub` `GitLab`
 
 ## Background
 
