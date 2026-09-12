@@ -1,32 +1,31 @@
-# Salut, moi c'est Vivian 👋
+# Hi, I'm Vivian 👋
 
-Ingénieur informatique en cursus à Polytech Lyon. Mon terrain de jeu : le backend — microservices, APIs, traitement d'événements et de données — avec la capacité d'intervenir sur toute la chaîne, de l'interface au déploiement.
+Computer science engineering student. My playground is the backend — microservices, APIs, event and data processing — with the ability to work across the whole chain, from the interface to deployment.
 
-## Ce que je fais
+## What I do
 
-De l'analyse des besoins à la mise en production : rédaction de spécifications, développement d'APIs REST/GraphQL et d'interfaces, modélisation de bases de données, tests automatisés, déploiement et monitoring.
+From requirements analysis to production deployment: writing specifications, developing REST/GraphQL APIs and interfaces, database modeling, automated testing, deployment, and monitoring.
 
-## Projets
+## Projects
 
-**[Studomate](https://github.com/vporel/studomate)** — Simulateur de GRAFCET pour étudiants BTS/BUT GEII. Application statique, open source. [Voir en ligne →](https://studomate.com)
+**[Studomate](https://github.com/vporel/studomate)** — GRAFCET simulator for BTS/BUT GEII students. Static, open-source application. [View live →](https://studomate.com)
 
-**[Cloverly](https://github.com/vporel/cloverly)** — Jeu de mots multijoueur en temps réel. Vue.js + Vite, Supabase (auth, base de données, Realtime), Pinia, Tailwind.
+**[Cloverly](https://github.com/vporel/cloverly)** — Real-time multiplayer word game. Vue.js + Vite, Supabase (auth, database, Realtime), Pinia, Tailwind.
 
-*→ Plus de projets sur [vporel.com](https://vporel.com)*
+*→ More projects on [vporel.com](https://vporel.com)*
 
-## Stack technique
+## Tech stack
 
 `TypeScript` `Node.js` `NestJS` `React` `Next.js` `Java (Micronaut, Spring Boot)` `PHP (Symfony)` `Python` `PostgreSQL` `Docker` `Jest` `Git` `GitHub` `GitLab`
 
-## Parcours
+## Background
 
-- **Groupama - G2S** — Ingénieur informatique, microservices Java (Micronaut, Spring Boot) — sept. 2025 – aujourd'hui
-- **Elinau** — Technicien BE, automatisme et systèmes industriels — oct. 2023 – août 2025
-- **Lahotte** — Développeur Web, APIs Symfony — août 2022 – févr. 2023
+- **Groupama - G2S** — Software Engineer, Java microservices (Micronaut, Spring Boot) — Sept. 2025 – present
+- **Elinau** — Design Office Technician, automation and industrial systems — Oct. 2023 – Aug. 2025
 
 ## Contact
 
 📫 dev.vporel@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/vivian-nkouanang/) · 🌐 [vporel.com](https://vporel.com)
 
 ---
-<sub>🎹 Et quand je ne code pas, j'apprends le piano — le parcours est documenté sur [@vpkeys](https://tiktok.com/@vpkeys).</sub>
+<sub>🎹 And when I'm not coding, I'm learning piano — the journey is documented on [@vpkeys](https://tiktok.com/@vpkeys).</sub>
